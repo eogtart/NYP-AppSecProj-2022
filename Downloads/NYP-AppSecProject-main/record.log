@@ -1,0 +1,71 @@
+2022-08-14 14:01:46,186 WARNING flask-limiter Thread-14 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 14:01:46,836 WARNING flask-limiter Thread-23 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 14:02:25,360 WARNING flask-limiter Thread-7 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:11:50,159 WARNING flask-limiter Thread-14: ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:11:50,802 WARNING flask-limiter Thread-23: ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:11:51,440 WARNING flask-limiter Thread-35: ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:12:59,311 WARNING flask-limiter Thread-13 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:13:00,010 WARNING flask-limiter Thread-23 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:13:09,896 WARNING flask-limiter Thread-42 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:13:10,903 WARNING flask-limiter Thread-60 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:13:11,522 WARNING flask-limiter Thread-70 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:41:18,394 WARNING flask-limiter Thread-13 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:41:19,077 WARNING flask-limiter Thread-23 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:41:50,808 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-14 18:43:40,911 INFO werkzeug Thread-3 : 127.0.0.1 - - [14/Aug/2022 18:43:40] "GET / HTTP/1.1" 200 -
+2022-08-14 18:43:40,931 INFO werkzeug Thread-5 : 127.0.0.1 - - [14/Aug/2022 18:43:40] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:43:40,931 INFO werkzeug Thread-6 : 127.0.0.1 - - [14/Aug/2022 18:43:40] "GET /static/css/navbar.css HTTP/1.1" 200 -
+2022-08-14 18:43:41,241 INFO werkzeug Thread-7 : 127.0.0.1 - - [14/Aug/2022 18:43:41] "GET /static/css/form.css HTTP/1.1" 200 -
+2022-08-14 18:43:41,243 INFO werkzeug Thread-8 : 127.0.0.1 - - [14/Aug/2022 18:43:41] "GET /static/img/Swiss_Logo.png HTTP/1.1" 200 -
+2022-08-14 18:43:41,245 INFO werkzeug Thread-9 : 127.0.0.1 - - [14/Aug/2022 18:43:41] "GET /static/img/city-street.png HTTP/1.1" 200 -
+2022-08-14 18:43:41,556 INFO werkzeug Thread-10 : 127.0.0.1 - - [14/Aug/2022 18:43:41] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,052 INFO werkzeug Thread-13 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/images/letter-s.png HTTP/1.1" 200 -
+2022-08-14 18:43:42,232 INFO werkzeug Thread-11 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET / HTTP/1.1" 200 -
+2022-08-14 18:43:42,241 WARNING flask-limiter Thread-14 : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 18:43:42,245 INFO werkzeug Thread-14 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2022-08-14 18:43:42,365 INFO werkzeug Thread-16 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,566 INFO werkzeug Thread-17 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/home.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,568 INFO werkzeug Thread-18 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/main.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,575 INFO werkzeug Thread-20 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,577 INFO werkzeug Thread-21 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/sb-admin-2.min.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,608 INFO werkzeug Thread-19 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "[33mGET /vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 404 -
+2022-08-14 18:43:42,675 INFO werkzeug Thread-22 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/navbar.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,928 INFO werkzeug Thread-23 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/css/sb-admin-2.min.css HTTP/1.1" 200 -
+2022-08-14 18:43:42,928 INFO werkzeug Thread-24 : 127.0.0.1 - - [14/Aug/2022 18:43:42] "GET /static/img/Swiss_Logo.png HTTP/1.1" 200 -
+2022-08-14 18:43:43,252 INFO werkzeug Thread-25 : 127.0.0.1 - - [14/Aug/2022 18:43:43] "GET /static/img/city-street.png HTTP/1.1" 200 -
+2022-08-14 18:48:26,229 INFO werkzeug Thread-27 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET / HTTP/1.1" 200 -
+2022-08-14 18:48:26,243 INFO werkzeug Thread-29 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:48:26,252 INFO werkzeug Thread-30 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/css/navbar.css HTTP/1.1" 200 -
+2022-08-14 18:48:26,546 INFO werkzeug Thread-32 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/img/Swiss_Logo.png HTTP/1.1" 200 -
+2022-08-14 18:48:26,547 INFO werkzeug Thread-31 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/css/form.css HTTP/1.1" 200 -
+2022-08-14 18:48:26,549 INFO werkzeug Thread-33 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/img/city-street.png HTTP/1.1" 200 -
+2022-08-14 18:48:26,856 INFO werkzeug Thread-34 : 127.0.0.1 - - [14/Aug/2022 18:48:26] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:48:27,120 INFO werkzeug Thread-35 : 127.0.0.1 - - [14/Aug/2022 18:48:27] "GET /static/images/letter-s.png HTTP/1.1" 200 -
+2022-08-14 18:48:35,357 INFO werkzeug Thread-36 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET / HTTP/1.1" 200 -
+2022-08-14 18:48:35,393 INFO werkzeug Thread-38 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:48:35,689 INFO werkzeug Thread-39 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET /static/css/navbar.css HTTP/1.1" 200 -
+2022-08-14 18:48:35,692 INFO werkzeug Thread-41 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET /static/img/Swiss_Logo.png HTTP/1.1" 200 -
+2022-08-14 18:48:35,693 INFO werkzeug Thread-40 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET /static/css/form.css HTTP/1.1" 200 -
+2022-08-14 18:48:35,694 INFO werkzeug Thread-42 : 127.0.0.1 - - [14/Aug/2022 18:48:35] "GET /static/img/city-street.png HTTP/1.1" 200 -
+2022-08-14 18:48:36,014 INFO werkzeug Thread-43 : 127.0.0.1 - - [14/Aug/2022 18:48:36] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:48:36,264 INFO werkzeug Thread-44 : 127.0.0.1 - - [14/Aug/2022 18:48:36] "GET /static/images/letter-s.png HTTP/1.1" 200 -
+2022-08-14 18:52:20,254 INFO werkzeug Thread-46 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "POST / HTTP/1.1" 200 -
+2022-08-14 18:52:20,271 INFO werkzeug Thread-49 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/css/navbar.css HTTP/1.1" 200 -
+2022-08-14 18:52:20,271 INFO werkzeug Thread-47 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:52:20,585 INFO werkzeug Thread-51 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/img/Swiss_Logo.png HTTP/1.1" 200 -
+2022-08-14 18:52:20,587 INFO werkzeug Thread-52 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/img/city-street.png HTTP/1.1" 200 -
+2022-08-14 18:52:20,587 INFO werkzeug Thread-50 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/css/form.css HTTP/1.1" 200 -
+2022-08-14 18:52:20,896 INFO werkzeug Thread-53 : 127.0.0.1 - - [14/Aug/2022 18:52:20] "GET /static/css/Landingbase.css HTTP/1.1" 200 -
+2022-08-14 18:54:54,168 INFO root Thread-76 : ip: 127.0.0.1
+2022-08-14 19:43:52,316 INFO flask_wtf.csrf Thread-3 : The CSRF session token is missing.
+2022-08-14 19:52:14,608 INFO flask_wtf.csrf Thread-3 request.remote_addr : The CSRF session token is missing.
+2022-08-14 19:53:19,893 WARNING flask-limiter Thread-30 (request.remote_addr) : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 19:53:20,593 WARNING flask-limiter Thread-40 (request.remote_addr) : ratelimit 1 per 1 second (127.0.0.1) exceeded at endpoint: landing_page
+2022-08-14 21:22:14,268 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-08-14 21:26:23,556 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-08-14 21:27:41,431 WARNING werkzeug MainThread :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-08-14 21:28:28,610 ERROR root Thread-14 : ACCOUNT: idiot  
+ NEW IP: 127.0.0.1
